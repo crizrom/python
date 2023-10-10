@@ -1,2 +1,2 @@
 print("Hello world!!!")
-print("Thi is my python stuff")
+print("This is my python stuff")
