@@ -16,4 +16,3 @@ print(operation.sum)
 print(operation.minus)
 print(operation.division)
 print(operation.multiply)
-

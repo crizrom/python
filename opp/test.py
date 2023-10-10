@@ -19,7 +19,7 @@ car_2 = Car("Ford","Ferrari",2022,"red")
 print(car_2.make)
 print(car_2.model)
 print(car_2.year)
-print(car_2.color)
+print(car_1.color)
 print(" ")
 
 
